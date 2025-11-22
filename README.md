@@ -210,11 +210,6 @@ Through this project, I gained expertise in:
 - Deploy model as a web service or API
 - Apply to updated datasets (NSL-KDD, UNSW-NB15)
 
-## 👨‍💻 Author
-
-**Santhosh**  
-Data Analyst | Machine Learning Enthusiast  
-Specialization: Cybersecurity Analytics, ML Classification
 
 ## 📚 References
 
@@ -223,10 +218,5 @@ Specialization: Cybersecurity Analytics, ML Classification
 - Machine learning classification techniques
 - Cybersecurity attack taxonomy
 
-## 📝 License
-
-This project was created for educational and research purposes in the field of cybersecurity and machine learning.
 
 ---
-
-⭐ If you found this project helpful for your cybersecurity or machine learning studies, please consider giving it a star!
